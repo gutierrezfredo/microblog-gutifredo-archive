@@ -18,7 +18,7 @@
 			{
 				"id": "http://gutifredo.micro.blog/2024/03/19/summer.html",
 				"title": "Summer",
-				"content_html": "<p>I find it so cold<!-- raw HTML omitted -->\nthat this world wasn&rsquo;t made<!-- raw HTML omitted -->\nfor angels like you<!-- raw HTML omitted -->\n&hellip;But do you believe in summer?</p>\n",
+				"content_html": "<p>I find it so cold<br>\nthat this world wasn&rsquo;t made<br>\nfor angels like you<br>\n&hellip;But do you believe in summer?</p>\n",
 				"content_text": "I find it so cold<br>\nthat this world wasn't made<br>\nfor angels like you<br>\n...But do you believe in summer?\n",
 				"date_published": "2024-03-19T13:09:00-06:00",
 				"url": "https://alfredo.blog/2024/03/19/summer.html",
@@ -27,7 +27,7 @@
 			{
 				"id": "http://gutifredo.micro.blog/2024/03/15/whiskey-water.html",
 				"title": "Whiskey \u0026 Water",
-				"content_html": "<p>She drank the whiskey,<!-- raw HTML omitted -->\nI chose the water;<!-- raw HTML omitted -->\nyet I still got tipsy<!-- raw HTML omitted -->\nstaring at the girl with an absent father.</p>\n<p>No liquor have I ever<!-- raw HTML omitted -->\ndrank to feel this way<!-- raw HTML omitted -->\nand it may not last forever,<!-- raw HTML omitted -->\nfor I&rsquo;m just another prey.</p>\n<p>&ldquo;It&rsquo;s time for y&rsquo;all to leave,&quot;<!-- raw HTML omitted -->\nthe bartender loudly screamed.<!-- raw HTML omitted -->\nThe bar will close at 3.<!-- raw HTML omitted -->\nIt&rsquo;s time to stop this dream.</p>\n<p>No words that I could speak<!-- raw HTML omitted -->\nto the greatest of all thieves,<!-- raw HTML omitted -->\nfor stealing all the self-worth<!-- raw HTML omitted -->\nthat any man deserves to keep.</p>\n",
+				"content_html": "<p>She drank the whiskey,<br>\nI chose the water;<br>\nyet I still got tipsy<br>\nstaring at the girl with an absent father.</p>\n<p>No liquor have I ever<br>\ndrank to feel this way<br>\nand it may not last forever,<br>\nfor I&rsquo;m just another prey.</p>\n<p>&ldquo;It&rsquo;s time for y&rsquo;all to leave,&quot;<br>\nthe bartender loudly screamed.<br>\nThe bar will close at 3.<br>\nIt&rsquo;s time to stop this dream.</p>\n<p>No words that I could speak<br>\nto the greatest of all thieves,<br>\nfor stealing all the self-worth<br>\nthat any man deserves to keep.</p>\n",
 				"content_text": "She drank the whiskey,<br>\nI chose the water;<br>\nyet I still got tipsy<br>\nstaring at the girl with an absent father.\n\nNo liquor have I ever<br>\ndrank to feel this way<br>\nand it may not last forever,<br>\nfor I'm just another prey.\n\n\"It's time for y'all to leave,\"<br>\nthe bartender loudly screamed.<br>\nThe bar will close at 3.<br>\nIt's time to stop this dream.\n\nNo words that I could speak<br>\nto the greatest of all thieves,<br>\nfor stealing all the self-worth<br>\nthat any man deserves to keep.\n",
 				"date_published": "2024-03-15T11:34:00-06:00",
 				"url": "https://alfredo.blog/2024/03/15/whiskey-water.html",
@@ -36,7 +36,7 @@
 			{
 				"id": "http://gutifredo.micro.blog/2024/03/10/anxiety.html",
 				"title": "Anxiety",
-				"content_html": "<p>Like the sting of a bee,<!-- raw HTML omitted -->\nthat never goes away.<!-- raw HTML omitted -->\nNo antidote for it,<!-- raw HTML omitted -->\n&ldquo;just breathe&rdquo; is all they say.</p>\n<p>I am not sick,<!-- raw HTML omitted -->\nnor ecstatic as I play.<!-- raw HTML omitted -->\nYet my heart shrinks<!-- raw HTML omitted -->\nwhen facing a new tray.</p>\n<p>&ldquo;Don&rsquo;t dwell too much on it,&quot;<!-- raw HTML omitted -->\nmy therapist would say.<!-- raw HTML omitted -->\nThe more attention it receives<!-- raw HTML omitted -->\nthe bigger it becomes, I bet.</p>\n<p>I guess I&rsquo;ll live with it,<!-- raw HTML omitted -->\nan invitation to the game.<!-- raw HTML omitted -->\nTeaming up,<!-- raw HTML omitted -->\nto see how far we&rsquo;ll get.</p>\n",
+				"content_html": "<p>Like the sting of a bee,<br>\nthat never goes away.<br>\nNo antidote for it,<br>\n&ldquo;just breathe&rdquo; is all they say.</p>\n<p>I am not sick,<br>\nnor ecstatic as I play.<br>\nYet my heart shrinks<br>\nwhen facing a new tray.</p>\n<p>&ldquo;Don&rsquo;t dwell too much on it,&quot;<br>\nmy therapist would say.<br>\nThe more attention it receives<br>\nthe bigger it becomes, I bet.</p>\n<p>I guess I&rsquo;ll live with it,<br>\nan invitation to the game.<br>\nTeaming up,<br>\nto see how far we&rsquo;ll get.</p>\n",
 				"content_text": "Like the sting of a bee,<br>\nthat never goes away.<br>\nNo antidote for it,<br>\n\"just breathe\" is all they say.\n\nI am not sick,<br>\nnor ecstatic as I play.<br>\nYet my heart shrinks<br>\nwhen facing a new tray.\n\n\"Don't dwell too much on it,\"<br>\nmy therapist would say.<br>\nThe more attention it receives<br>\nthe bigger it becomes, I bet.\n\nI guess I'll live with it,<br>\nan invitation to the game.<br>\nTeaming up,<br>\nto see how far we'll get.\n",
 				"date_published": "2024-03-10T14:29:00-06:00",
 				"url": "https://alfredo.blog/2024/03/10/anxiety.html",
@@ -45,7 +45,7 @@
 			{
 				"id": "http://gutifredo.micro.blog/2021/06/28/locura.html",
 				"title": "Locura",
-				"content_html": "<p>Desde esta lejanía<!-- raw HTML omitted -->\nte extraño con locura,<!-- raw HTML omitted -->\nte pienso noche y día<!-- raw HTML omitted -->\ny el tiempo no se apura</p>\n<p>Por si no te lo había dicho,<!-- raw HTML omitted -->\nque no exista la duda<!-- raw HTML omitted -->\nde que esto no es capricho,<!-- raw HTML omitted -->\nes amor, amor que dura.</p>\n",
+				"content_html": "<p>Desde esta lejanía<br>\nte extraño con locura,<br>\nte pienso noche y día<br>\ny el tiempo no se apura</p>\n<p>Por si no te lo había dicho,<br>\nque no exista la duda<br>\nde que esto no es capricho,<br>\nes amor, amor que dura.</p>\n",
 				"content_text": "Desde esta lejanía<br>\nte extraño con locura,<br>\nte pienso noche y día<br>\ny el tiempo no se apura\n\nPor si no te lo había dicho,<br>\nque no exista la duda<br>\nde que esto no es capricho,<br>\nes amor, amor que dura.\n",
 				"date_published": "2021-06-28T05:00:00-06:00",
 				"url": "https://alfredo.blog/2021/06/28/locura.html",
@@ -54,7 +54,7 @@
 			{
 				"id": "http://gutifredo.micro.blog/2021/05/31/madre.html",
 				"title": "Madre",
-				"content_html": "<p>Los besos de mi madre<!-- raw HTML omitted -->\nme mantuvieron bien despierto,<!-- raw HTML omitted -->\nahuyentando lo cobarde<!-- raw HTML omitted -->\nen un mundo tan incierto.<!-- raw HTML omitted --></p>\n<p>Gracias madre,<!-- raw HTML omitted -->\npor tu amor<!-- raw HTML omitted -->\ne incondicional sustento.</p>\n",
+				"content_html": "<p>Los besos de mi madre<br>\nme mantuvieron bien despierto,<br>\nahuyentando lo cobarde<br>\nen un mundo tan incierto.<br></p>\n<p>Gracias madre,<br>\npor tu amor<br>\ne incondicional sustento.</p>\n",
 				"content_text": "Los besos de mi madre<br>\nme mantuvieron bien despierto,<br>\nahuyentando lo cobarde<br>\nen un mundo tan incierto.<br>\n\nGracias madre,<br>\npor tu amor<br>\ne incondicional sustento.\n",
 				"date_published": "2021-05-31T12:33:00-06:00",
 				"url": "https://alfredo.blog/2021/05/31/madre.html",
@@ -63,7 +63,7 @@
 			{
 				"id": "http://gutifredo.micro.blog/2021/05/22/nostalgia.html",
 				"title": "Nostalgia",
-				"content_html": "<p>Duermo en una cama<!-- raw HTML omitted -->\nmuy grande y ancha<!-- raw HTML omitted -->\npara que por la noche<!-- raw HTML omitted -->\nquepa toda la nostalgia<!-- raw HTML omitted -->\nque me dejaron los que hoy<!-- raw HTML omitted -->\nme hacen tanta falta.</p>\n",
+				"content_html": "<p>Duermo en una cama<br>\nmuy grande y ancha<br>\npara que por la noche<br>\nquepa toda la nostalgia<br>\nque me dejaron los que hoy<br>\nme hacen tanta falta.</p>\n",
 				"content_text": "Duermo en una cama<br>\nmuy grande y ancha<br>\npara que por la noche<br>\nquepa toda la nostalgia<br>\nque me dejaron los que hoy<br>\nme hacen tanta falta.\n",
 				"date_published": "2021-05-22T12:06:00-06:00",
 				"url": "https://alfredo.blog/2021/05/22/nostalgia.html",
@@ -72,7 +72,7 @@
 			{
 				"id": "http://gutifredo.micro.blog/2021/05/22/abundancia.html",
 				"title": "Abundancia",
-				"content_html": "<p>Testaruda mi ignorancia,<!-- raw HTML omitted -->\npor haberme vendado la mirada<!-- raw HTML omitted -->\nante un mundo y su abundancia,<!-- raw HTML omitted -->\nal que por haber llegado sin nada,<!-- raw HTML omitted -->\nhasta las pérdidas son ganancia.</p>\n",
+				"content_html": "<p>Testaruda mi ignorancia,<br>\npor haberme vendado la mirada<br>\nante un mundo y su abundancia,<br>\nal que por haber llegado sin nada,<br>\nhasta las pérdidas son ganancia.</p>\n",
 				"content_text": "Testaruda mi ignorancia,<br>\npor haberme vendado la mirada<br>\nante un mundo y su abundancia,<br>\nal que por haber llegado sin nada,<br>\nhasta las pérdidas son ganancia.\n",
 				"date_published": "2021-05-22T12:05:00-06:00",
 				"url": "https://alfredo.blog/2021/05/22/abundancia.html",
@@ -81,7 +81,7 @@
 			{
 				"id": "http://gutifredo.micro.blog/2020/10/07/complejo.html",
 				"title": "Complejo",
-				"content_html": "<p>Cuando ni Dios<!-- raw HTML omitted -->\nconcede todas nuestras plegarias,<!-- raw HTML omitted -->\naquí estoy yo,<!-- raw HTML omitted -->\ncon intensiones involuntarias<!-- raw HTML omitted -->\nde complacer a todos<!-- raw HTML omitted -->\npara que no me cojan con rabia.</p>\n",
+				"content_html": "<p>Cuando ni Dios<br>\nconcede todas nuestras plegarias,<br>\naquí estoy yo,<br>\ncon intensiones involuntarias<br>\nde complacer a todos<br>\npara que no me cojan con rabia.</p>\n",
 				"content_text": "Cuando ni Dios<br>\nconcede todas nuestras plegarias,<br>\naquí estoy yo,<br>\ncon intensiones involuntarias<br>\nde complacer a todos<br>\npara que no me cojan con rabia.\n",
 				"date_published": "2020-10-07T14:19:00-06:00",
 				"url": "https://alfredo.blog/2020/10/07/complejo.html",
@@ -90,7 +90,7 @@
 			{
 				"id": "http://gutifredo.micro.blog/2020/10/05/miedos.html",
 				"title": "Miedos",
-				"content_html": "<p>Haré una fiesta<!-- raw HTML omitted -->\ne invitaré a mis miedos,<!-- raw HTML omitted -->\nsobre todo a aquellos<!-- raw HTML omitted -->\nque gritan «¡no puedo!».</p>\n<p>Para descubrir<!-- raw HTML omitted -->\nde qué están hechos<!-- raw HTML omitted -->\ny darle fin<!-- raw HTML omitted -->\na sus engañosos juegos.</p>\n<p>Notarán<!-- raw HTML omitted -->\nque no les temo,<!-- raw HTML omitted -->\npues ya comprendo<!-- raw HTML omitted -->\nque no son serios.</p>\n<p>Al final<!-- raw HTML omitted -->\nme reiré de ellos,<!-- raw HTML omitted -->\npues llegaron grandes,<!-- raw HTML omitted -->\npero se irán pequeños.</p>\n",
+				"content_html": "<p>Haré una fiesta<br>\ne invitaré a mis miedos,<br>\nsobre todo a aquellos<br>\nque gritan «¡no puedo!».</p>\n<p>Para descubrir<br>\nde qué están hechos<br>\ny darle fin<br>\na sus engañosos juegos.</p>\n<p>Notarán<br>\nque no les temo,<br>\npues ya comprendo<br>\nque no son serios.</p>\n<p>Al final<br>\nme reiré de ellos,<br>\npues llegaron grandes,<br>\npero se irán pequeños.</p>\n",
 				"content_text": "Haré una fiesta<br>\ne invitaré a mis miedos,<br>\nsobre todo a aquellos<br>\nque gritan «¡no puedo!».\n\nPara descubrir<br>\nde qué están hechos<br>\ny darle fin<br>\na sus engañosos juegos.\n\nNotarán<br>\nque no les temo,<br>\npues ya comprendo<br>\nque no son serios.\n\nAl final<br>\nme reiré de ellos,<br>\npues llegaron grandes,<br>\npero se irán pequeños.\n",
 				"date_published": "2020-10-05T09:35:00-06:00",
 				"url": "https://alfredo.blog/2020/10/05/miedos.html",
@@ -99,7 +99,7 @@
 			{
 				"id": "http://gutifredo.micro.blog/2020/08/14/reflejo.html",
 				"title": "Reflejo",
-				"content_html": "<p>Ante mi espejo<!-- raw HTML omitted -->\ncon ojos tiesos,<!-- raw HTML omitted -->\njuzgo un reflejo <!-- raw HTML omitted -->\nlleno de tropiezos.</p>\n<p>Pensamientos van y vienen,<!-- raw HTML omitted -->\nque creo poco ciertos.</p>\n<p>Son amargos y muy tercos,<!-- raw HTML omitted -->\ncarentes de finales, <!-- raw HTML omitted -->\ncarentes de comienzos.</p>\n<p>Siguen juzgando\na través del espejo,<!-- raw HTML omitted -->\nsin saber que hay tanto<!-- raw HTML omitted -->\nque no tiene reflejo.</p>\n",
+				"content_html": "<p>Ante mi espejo<br>\ncon ojos tiesos,<br>\njuzgo un reflejo <br>\nlleno de tropiezos.</p>\n<p>Pensamientos van y vienen,<br>\nque creo poco ciertos.</p>\n<p>Son amargos y muy tercos,<br>\ncarentes de finales, <br>\ncarentes de comienzos.</p>\n<p>Siguen juzgando\na través del espejo,<br>\nsin saber que hay tanto<br>\nque no tiene reflejo.</p>\n",
 				"content_text": "Ante mi espejo<br> \ncon ojos tiesos,<br>\njuzgo un reflejo <br>\nlleno de tropiezos.\n\nPensamientos van y vienen,<br>\nque creo poco ciertos.\n\nSon amargos y muy tercos,<br>\ncarentes de finales, <br>\ncarentes de comienzos.\n\nSiguen juzgando \na través del espejo,<br>\nsin saber que hay tanto<br>\nque no tiene reflejo.\n",
 				"date_published": "2020-08-14T05:30:00-06:00",
 				"url": "https://alfredo.blog/2020/08/14/reflejo.html",
@@ -108,7 +108,7 @@
 			{
 				"id": "http://gutifredo.micro.blog/2020/08/09/amores.html",
 				"title": "Amores",
-				"content_html": "<p>Un dolor del pasado<!-- raw HTML omitted -->\nque no pudo ser consolado<!-- raw HTML omitted -->\nse transformó en el miedo<!-- raw HTML omitted -->\na salir lastimados.</p>\n<p>Por eso, hoy,<!-- raw HTML omitted -->\nmás que amar,<!-- raw HTML omitted -->\npreferimos ser amados.</p>\n",
+				"content_html": "<p>Un dolor del pasado<br>\nque no pudo ser consolado<br>\nse transformó en el miedo<br>\na salir lastimados.</p>\n<p>Por eso, hoy,<br>\nmás que amar,<br>\npreferimos ser amados.</p>\n",
 				"content_text": "Un dolor del pasado<br>\nque no pudo ser consolado<br>\nse transformó en el miedo<br>\na salir lastimados.\n\nPor eso, hoy,<br>\nmás que amar,<br>\npreferimos ser amados.\n",
 				"date_published": "2020-08-09T18:32:00-06:00",
 				"url": "https://alfredo.blog/2020/08/09/amores.html",
@@ -117,7 +117,7 @@
 			{
 				"id": "http://gutifredo.micro.blog/2019/11/27/tener-la-razn.html",
 				"title": "Razón",
-				"content_html": "<p>Cuando te das cuenta<!-- raw HTML omitted -->\nque las opiniones <!-- raw HTML omitted -->\nson tan subjetivas,<!-- raw HTML omitted -->\ntener la razón<!-- raw HTML omitted -->\nno vale tanto como creías.</p>\n",
+				"content_html": "<p>Cuando te das cuenta<br>\nque las opiniones <br>\nson tan subjetivas,<br>\ntener la razón<br>\nno vale tanto como creías.</p>\n",
 				"content_text": "Cuando te das cuenta<br>\nque las opiniones <br>\nson tan subjetivas,<br>\ntener la razón<br>\nno vale tanto como creías.\n",
 				"date_published": "2019-11-27T10:33:03-06:00",
 				"url": "https://alfredo.blog/2019/11/27/tener-la-razn.html",
@@ -126,7 +126,7 @@
 			{
 				"id": "http://gutifredo.micro.blog/2019/11/21/el-cielo-en-la-tierra.html",
 				"title": "El Cielo",
-				"content_html": "<p>Muchos creen que al morir<!-- raw HTML omitted -->\nel cielo cesará toda dolencia.</p>\n<p>¿No sabrán que están en él<!-- raw HTML omitted -->\npero lo han hecho<!-- raw HTML omitted -->\nun desastre de experiencia?</p>\n",
+				"content_html": "<p>Muchos creen que al morir<br>\nel cielo cesará toda dolencia.</p>\n<p>¿No sabrán que están en él<br>\npero lo han hecho<br>\nun desastre de experiencia?</p>\n",
 				"content_text": "Muchos creen que al morir<br>\nel cielo cesará toda dolencia.\n\n¿No sabrán que están en él<br>\npero lo han hecho<br>\nun desastre de experiencia?\n",
 				"date_published": "2019-11-21T10:34:13-06:00",
 				"url": "https://alfredo.blog/2019/11/21/el-cielo-en-la-tierra.html",
@@ -135,7 +135,7 @@
 			{
 				"id": "http://gutifredo.micro.blog/2019/11/20/la-ansiedad.html",
 				"title": "Ansiedad",
-				"content_html": "<p>Es normal que entre en la mente, <!-- raw HTML omitted -->\nque te agobie y atormente,<!-- raw HTML omitted -->\ncombatirla hará que aumente, <!-- raw HTML omitted -->\nhay que obviarla solamente.</p>\n<p>Volverá y será latente, <!-- raw HTML omitted -->\ny tendrás que ser valiente, <!-- raw HTML omitted -->\nno le creas porque miente,<!-- raw HTML omitted -->\nVale más seguir sonriente.</p>\n<p>Y tampoco estés pendiente, <!-- raw HTML omitted -->\nes mejor si no se siente, <!-- raw HTML omitted -->\nsin importar cuánto frecuente.<!-- raw HTML omitted -->\nque no se vuelva tu presente.</p>\n",
+				"content_html": "<p>Es normal que entre en la mente, <br>\nque te agobie y atormente,<br>\ncombatirla hará que aumente, <br>\nhay que obviarla solamente.</p>\n<p>Volverá y será latente, <br>\ny tendrás que ser valiente, <br>\nno le creas porque miente,<br>\nVale más seguir sonriente.</p>\n<p>Y tampoco estés pendiente, <br>\nes mejor si no se siente, <br>\nsin importar cuánto frecuente.<br>\nque no se vuelva tu presente.</p>\n",
 				"content_text": "Es normal que entre en la mente, <br>\nque te agobie y atormente,<br>\ncombatirla hará que aumente, <br>\nhay que obviarla solamente.\n\nVolverá y será latente, <br>\ny tendrás que ser valiente, <br>\nno le creas porque miente,<br>\nVale más seguir sonriente.\n\nY tampoco estés pendiente, <br>\nes mejor si no se siente, <br>\nsin importar cuánto frecuente.<br> \nque no se vuelva tu presente.\n",
 				"date_published": "2019-11-20T20:18:42-06:00",
 				"url": "https://alfredo.blog/2019/11/20/la-ansiedad.html",
@@ -144,7 +144,7 @@
 			{
 				"id": "http://gutifredo.micro.blog/2017/07/09/de-madrid-a-logroo.html",
 				"title": "De Madrid a Logroño",
-				"content_html": "<p>El invierno estaba llegando a sus últimos días, lo cual hacía del paisaje uno de los mas hermosos que jamás había recorrido.</p>\n<p>Arribamos a la estación de Logroño después de 4 horas de camino, a donde me esperaba Meli. Temía que después de tantos años no me fuese a reconocer.</p>\n<p>La vi a lo lejos, justo después de bajarme del autobús, pero 17 años sin verla me hicieron dudar si era realmente ella. La gente cambia mucho fisicamente en 17 años.</p>\n<p><!-- raw HTML omitted -->—<!-- raw HTML omitted --> ¿Meli?\n<!-- raw HTML omitted -->—<!-- raw HTML omitted --> ¡Hasta que por fin te encuentro!\nAl saber que era ella, la duda se transformó en mucha alegría.\n<!-- raw HTML omitted -->—<!-- raw HTML omitted --> Te vi buscándome, pero no estaba seguro si eras tú.\n<!-- raw HTML omitted -->—<!-- raw HTML omitted --> ¡Venga! Dame un abrazo.</p>\n<p>Nos subimos al carro en dirección a su casa. Tuvimos una conversación en la que pude resumir 17 años a 20 minutos.</p>\n<p>Al llegar, entramos por la parte de atrás de la casa. Y de inmediato un olor muy familiar me trajo bonitos recuerdos de cuando estuve en España por primera vez, a los 6 años.</p>\n<p>Intentamos subir las escaleras sin hacer ni el más mínimo ruido. Cada escalón me hacía sentir más y más ansioso. Empecé a imaginar nuestro encuentro. Lo que estaría haciendo en ese momento. Su reacción al verme.</p>\n<p>Llegando a la habitación, la puerta entre abierta me permitió escuchar la máquina de coser desde afuera. El sonido que hace la máquina de coser me es tan placentero como el de las chispas que hace una fogata, me crié escuchando ese sonido.</p>\n<p>Abrí la puerta para entrar a la habitación.</p>\n<p>Meli, que venía detrás de mi exclamó:</p>\n<p><!-- raw HTML omitted -->—<!-- raw HTML omitted --> ¡Mira quien está aquí!&hellip;</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>El invierno estaba llegando a sus últimos días, lo cual hacía del paisaje uno de los mas hermosos que jamás había recorrido.</p>\n<p>Arribamos a la estación de Logroño después de 4 horas de camino, a donde me esperaba Meli. Temía que después de tantos años no me fuese a reconocer.</p>\n<p>La vi a lo lejos, justo después de bajarme del autobús, pero 17 años sin verla me hicieron dudar si era realmente ella. La gente cambia mucho fisicamente en 17 años.</p>\n<p><b>—</b> ¿Meli?\n<b>—</b> ¡Hasta que por fin te encuentro!\nAl saber que era ella, la duda se transformó en mucha alegría.\n<b>—</b> Te vi buscándome, pero no estaba seguro si eras tú.\n<b>—</b> ¡Venga! Dame un abrazo.</p>\n<p>Nos subimos al carro en dirección a su casa. Tuvimos una conversación en la que pude resumir 17 años a 20 minutos.</p>\n<p>Al llegar, entramos por la parte de atrás de la casa. Y de inmediato un olor muy familiar me trajo bonitos recuerdos de cuando estuve en España por primera vez, a los 6 años.</p>\n<p>Intentamos subir las escaleras sin hacer ni el más mínimo ruido. Cada escalón me hacía sentir más y más ansioso. Empecé a imaginar nuestro encuentro. Lo que estaría haciendo en ese momento. Su reacción al verme.</p>\n<p>Llegando a la habitación, la puerta entre abierta me permitió escuchar la máquina de coser desde afuera. El sonido que hace la máquina de coser me es tan placentero como el de las chispas que hace una fogata, me crié escuchando ese sonido.</p>\n<p>Abrí la puerta para entrar a la habitación.</p>\n<p>Meli, que venía detrás de mi exclamó:</p>\n<p><b>—</b> ¡Mira quien está aquí!&hellip;</p>\n<blockquote>...Lo que ocurrió después fue el re-encuentro mas lindo de mi vida... Quise compartirlo.</blockquote>\n<img src=\"https://cdn.uploads.micro.blog/281600/2025/adff725045.jpg\">\n",
 				"content_text": "El invierno estaba llegando a sus últimos días, lo cual hacía del paisaje uno de los mas hermosos que jamás había recorrido.\n\nArribamos a la estación de Logroño después de 4 horas de camino, a donde me esperaba Meli. Temía que después de tantos años no me fuese a reconocer.\n\nLa vi a lo lejos, justo después de bajarme del autobús, pero 17 años sin verla me hicieron dudar si era realmente ella. La gente cambia mucho fisicamente en 17 años.\n\n<b>—</b> ¿Meli?\n<b>—</b> ¡Hasta que por fin te encuentro!\nAl saber que era ella, la duda se transformó en mucha alegría.\n<b>—</b> Te vi buscándome, pero no estaba seguro si eras tú.\n<b>—</b> ¡Venga! Dame un abrazo.\n\nNos subimos al carro en dirección a su casa. Tuvimos una conversación en la que pude resumir 17 años a 20 minutos.\n\nAl llegar, entramos por la parte de atrás de la casa. Y de inmediato un olor muy familiar me trajo bonitos recuerdos de cuando estuve en España por primera vez, a los 6 años.\n\nIntentamos subir las escaleras sin hacer ni el más mínimo ruido. Cada escalón me hacía sentir más y más ansioso. Empecé a imaginar nuestro encuentro. Lo que estaría haciendo en ese momento. Su reacción al verme.\n\nLlegando a la habitación, la puerta entre abierta me permitió escuchar la máquina de coser desde afuera. El sonido que hace la máquina de coser me es tan placentero como el de las chispas que hace una fogata, me crié escuchando ese sonido.\n\nAbrí la puerta para entrar a la habitación.\n\nMeli, que venía detrás de mi exclamó:\n\n<b>—</b> ¡Mira quien está aquí!...\n<blockquote>...Lo que ocurrió después fue el re-encuentro mas lindo de mi vida... Quise compartirlo.</blockquote>\n\n<img src=\"https://cdn.uploads.micro.blog/281600/2025/adff725045.jpg\">\n",
 				"date_published": "2017-07-09T09:13:00-06:00",
 				"url": "https://alfredo.blog/2017/07/09/de-madrid-a-logroo.html",
@@ -153,7 +153,7 @@
 			{
 				"id": "http://gutifredo.micro.blog/2017/06/21/el-mar-que-calma.html",
 				"title": "El Mar Que Calma",
-				"content_html": "<!-- raw HTML omitted -->\n<p>Luego pensé&hellip; “Por eso la gente es tan felíz en el mar. Porque el mar te quita el pensar”.</p>\n<p>Por eso la gente inteligente se entrega al mar. Se dejan absorver por la marea, hacia muy adentro en su inmensidad.</p>\n<p>Si le entregas todo al mar, sabrás de donde vienes y a donde vas. La gente que realmente aprecia el mar, se pierde en su totalidad, porque al mar no le tienen nada que demostrar, no tienen nada de qué alardear.</p>\n<p>Y al final supe por qué la gente se relaja tanto en el mar.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p style=\"text-align: left;\">Sentado en la playa noté como otros, al igual que yo, estaban tan relajados mirando el mar.</p>\nY pensé... “El mar calma. El mar te hace olvidar, absorviendo lo malo que puedas pensar”.\n<p>Luego pensé&hellip; “Por eso la gente es tan felíz en el mar. Porque el mar te quita el pensar”.</p>\n<p>Por eso la gente inteligente se entrega al mar. Se dejan absorver por la marea, hacia muy adentro en su inmensidad.</p>\n<p>Si le entregas todo al mar, sabrás de donde vienes y a donde vas. La gente que realmente aprecia el mar, se pierde en su totalidad, porque al mar no le tienen nada que demostrar, no tienen nada de qué alardear.</p>\n<p>Y al final supe por qué la gente se relaja tanto en el mar.</p>\n<blockquote>Entrégate a la naturaleza y ella te revelará sus secretos.</blockquote>\n<img src=\"https://cdn.uploads.micro.blog/281600/2025/c9e273334c.jpg\">\n",
 				"content_text": "<p style=\"text-align: left;\">Sentado en la playa noté como otros, al igual que yo, estaban tan relajados mirando el mar.</p>\nY pensé... “El mar calma. El mar te hace olvidar, absorviendo lo malo que puedas pensar”.\n\nLuego pensé... “Por eso la gente es tan felíz en el mar. Porque el mar te quita el pensar”.\n\nPor eso la gente inteligente se entrega al mar. Se dejan absorver por la marea, hacia muy adentro en su inmensidad.\n\nSi le entregas todo al mar, sabrás de donde vienes y a donde vas. La gente que realmente aprecia el mar, se pierde en su totalidad, porque al mar no le tienen nada que demostrar, no tienen nada de qué alardear.\n\nY al final supe por qué la gente se relaja tanto en el mar.\n<blockquote>Entrégate a la naturaleza y ella te revelará sus secretos.</blockquote>\n\n<img src=\"https://cdn.uploads.micro.blog/281600/2025/c9e273334c.jpg\">\n",
 				"date_published": "2017-06-21T19:41:00-06:00",
 				"url": "https://alfredo.blog/2017/06/21/el-mar-que-calma.html",
